@@ -1,0 +1,12 @@
+.header {
+    width: 500px;
+    height: 500px;
+    border: 1 solid red;
+}
+
+.logo {
+    background-image: url(./Imiges/Первый\ Русский\ Рубль.webp);
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+}
